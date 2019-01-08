@@ -7,18 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE78C4A621E4F23A001C86B1 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4A421E4F23A001C86B1 /* DrawingView.swift */; };
+		BE78C4A721E4F23A001C86B1 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4A521E4F23A001C86B1 /* ArtCell.swift */; };
+		BE78C4A921E4FB97001C86B1 /* BigViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4A821E4FB97001C86B1 /* BigViewController.swift */; };
+		BE78C4AB21E5032C001C86B1 /* AlgorithmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4AA21E5032C001C86B1 /* AlgorithmViewController.swift */; };
+		BE78C4AD21E50339001C86B1 /* AbstractionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4AC21E50339001C86B1 /* AbstractionViewController.swift */; };
+		BE78C4B021E50340001C86B1 /* ArtCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4AE21E50340001C86B1 /* ArtCollectionViewController.swift */; };
+		BE78C4B121E50340001C86B1 /* CreativityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4AF21E50340001C86B1 /* CreativityViewController.swift */; };
+		BE78C4B421E50348001C86B1 /* BucketItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4B221E50348001C86B1 /* BucketItemCell.swift */; };
+		BE78C4B521E50348001C86B1 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4B321E50348001C86B1 /* DataViewController.swift */; };
+		BE78C4B821E5039E001C86B1 /* BucketItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE78C4B721E5039E001C86B1 /* BucketItem.swift */; };
 		BEC9CB6521DFB573007EAFA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CB6421DFB573007EAFA1 /* AppDelegate.swift */; };
 		BEC9CB6A21DFB573007EAFA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB6821DFB573007EAFA1 /* Main.storyboard */; };
 		BEC9CB6C21DFB589007EAFA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB6B21DFB589007EAFA1 /* Assets.xcassets */; };
-		BEC9CB6F21DFB589007EAFA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB6D21DFB589007EAFA1 /* LaunchScreen.storyboard */; };
 		BEC9CB7A21DFB58A007EAFA1 /* ReallyBigProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CB7921DFB58A007EAFA1 /* ReallyBigProjectTests.swift */; };
 		BEC9CB8521DFB58A007EAFA1 /* ReallyBigProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CB8421DFB58A007EAFA1 /* ReallyBigProjectUITests.swift */; };
-		BEC9CB9721DFC2CB007EAFA1 /* Controller in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB9621DFC2CB007EAFA1 /* Controller */; };
-		BEC9CB9A21DFC302007EAFA1 /* Controller in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB9921DFC302007EAFA1 /* Controller */; };
-		BEC9CB9D21DFC31E007EAFA1 /* Controller in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB9C21DFC31E007EAFA1 /* Controller */; };
-		BEC9CBA021DFC3B5007EAFA1 /* Controller in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB9F21DFC3B4007EAFA1 /* Controller */; };
-		BEC9CBAC21DFC6CA007EAFA1 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CBAA21DFC6CA007EAFA1 /* DrawingView.swift */; };
-		BEC9CBAD21DFC6CA007EAFA1 /* ArtCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CBAB21DFC6CA007EAFA1 /* ArtCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,11 +42,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BE78C4A421E4F23A001C86B1 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		BE78C4A521E4F23A001C86B1 /* ArtCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCell.swift; sourceTree = "<group>"; };
+		BE78C4A821E4FB97001C86B1 /* BigViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigViewController.swift; sourceTree = "<group>"; };
+		BE78C4AA21E5032C001C86B1 /* AlgorithmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlgorithmViewController.swift; sourceTree = "<group>"; };
+		BE78C4AC21E50339001C86B1 /* AbstractionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbstractionViewController.swift; sourceTree = "<group>"; };
+		BE78C4AE21E50340001C86B1 /* ArtCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtCollectionViewController.swift; sourceTree = "<group>"; };
+		BE78C4AF21E50340001C86B1 /* CreativityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreativityViewController.swift; sourceTree = "<group>"; };
+		BE78C4B221E50348001C86B1 /* BucketItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BucketItemCell.swift; sourceTree = "<group>"; };
+		BE78C4B321E50348001C86B1 /* DataViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
+		BE78C4B721E5039E001C86B1 /* BucketItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BucketItem.swift; sourceTree = "<group>"; };
 		BEC9CB6121DFB573007EAFA1 /* ReallyBigProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReallyBigProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEC9CB6421DFB573007EAFA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEC9CB6921DFB573007EAFA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEC9CB6B21DFB589007EAFA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BEC9CB6E21DFB589007EAFA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BEC9CB7021DFB589007EAFA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEC9CB7521DFB58A007EAFA1 /* ReallyBigProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReallyBigProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEC9CB7921DFB58A007EAFA1 /* ReallyBigProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReallyBigProjectTests.swift; sourceTree = "<group>"; };
@@ -51,12 +63,6 @@
 		BEC9CB8021DFB58A007EAFA1 /* ReallyBigProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReallyBigProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEC9CB8421DFB58A007EAFA1 /* ReallyBigProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReallyBigProjectUITests.swift; sourceTree = "<group>"; };
 		BEC9CB8621DFB58A007EAFA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BEC9CB9621DFC2CB007EAFA1 /* Controller */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Controller; path = ../../../../DataApp/DataApp/Controller; sourceTree = "<group>"; };
-		BEC9CB9921DFC302007EAFA1 /* Controller */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Controller; path = ../../../../PaintPotProject/PaintPotProject/Controller; sourceTree = "<group>"; };
-		BEC9CB9C21DFC31E007EAFA1 /* Controller */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Controller; path = ../../../../SuperDuperAbstractionApp/SuperDuperAbstractionApp/Controller; sourceTree = "<group>"; };
-		BEC9CB9F21DFC3B4007EAFA1 /* Controller */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Controller; path = ../../../../PartyApp/PartyApp/Controller; sourceTree = "<group>"; };
-		BEC9CBAA21DFC6CA007EAFA1 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DrawingView.swift; path = "../../../PaintPotProject/PaintPotProject/Creativity View/DrawingView.swift"; sourceTree = "<group>"; };
-		BEC9CBAB21DFC6CA007EAFA1 /* ArtCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ArtCell.swift; path = "../../../PaintPotProject/PaintPotProject/Creativity View/ArtCell.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,11 +90,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BE78C4B621E50375001C86B1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BE78C4B721E5039E001C86B1 /* BucketItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		BEC9CB5821DFB573007EAFA1 = {
 			isa = PBXGroup;
 			children = (
 				BEC9CB6321DFB573007EAFA1 /* ReallyBigProject */,
-				BEC9CB7821DFB58A007EAFA1 /* ReallyBigProjectTests */,
 				BEC9CB8321DFB58A007EAFA1 /* ReallyBigProjectUITests */,
 				BEC9CB6221DFB573007EAFA1 /* Products */,
 			);
@@ -107,6 +120,7 @@
 		BEC9CB6321DFB573007EAFA1 /* ReallyBigProject */ = {
 			isa = PBXGroup;
 			children = (
+				BE78C4B621E50375001C86B1 /* Model */,
 				BEC9CB9321DFB5BA007EAFA1 /* Resoures */,
 				BEC9CB9421DFB5C7007EAFA1 /* Controller */,
 				BEC9CB9221DFB5A7007EAFA1 /* Viiew */,
@@ -135,10 +149,10 @@
 		BEC9CB9221DFB5A7007EAFA1 /* Viiew */ = {
 			isa = PBXGroup;
 			children = (
-				BEC9CBAB21DFC6CA007EAFA1 /* ArtCell.swift */,
-				BEC9CBAA21DFC6CA007EAFA1 /* DrawingView.swift */,
+				BE78C4A521E4F23A001C86B1 /* ArtCell.swift */,
+				BE78C4A421E4F23A001C86B1 /* DrawingView.swift */,
 				BEC9CB6821DFB573007EAFA1 /* Main.storyboard */,
-				BEC9CB6D21DFB589007EAFA1 /* LaunchScreen.storyboard */,
+				BEC9CB7821DFB58A007EAFA1 /* ReallyBigProjectTests */,
 			);
 			path = Viiew;
 			sourceTree = "<group>";
@@ -156,6 +170,7 @@
 		BEC9CB9421DFB5C7007EAFA1 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				BE78C4A821E4FB97001C86B1 /* BigViewController.swift */,
 				BEC9CB9E21DFC33A007EAFA1 /* Algorithm */,
 				BEC9CB9B21DFC308007EAFA1 /* Abstraction */,
 				BEC9CB9821DFC2E2007EAFA1 /* Creativity */,
@@ -167,7 +182,8 @@
 		BEC9CB9521DFC241007EAFA1 /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				BEC9CB9621DFC2CB007EAFA1 /* Controller */,
+				BE78C4B221E50348001C86B1 /* BucketItemCell.swift */,
+				BE78C4B321E50348001C86B1 /* DataViewController.swift */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -175,7 +191,8 @@
 		BEC9CB9821DFC2E2007EAFA1 /* Creativity */ = {
 			isa = PBXGroup;
 			children = (
-				BEC9CB9921DFC302007EAFA1 /* Controller */,
+				BE78C4AE21E50340001C86B1 /* ArtCollectionViewController.swift */,
+				BE78C4AF21E50340001C86B1 /* CreativityViewController.swift */,
 			);
 			path = Creativity;
 			sourceTree = "<group>";
@@ -183,7 +200,7 @@
 		BEC9CB9B21DFC308007EAFA1 /* Abstraction */ = {
 			isa = PBXGroup;
 			children = (
-				BEC9CB9C21DFC31E007EAFA1 /* Controller */,
+				BE78C4AC21E50339001C86B1 /* AbstractionViewController.swift */,
 			);
 			path = Abstraction;
 			sourceTree = "<group>";
@@ -191,7 +208,7 @@
 		BEC9CB9E21DFC33A007EAFA1 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				BEC9CB9F21DFC3B4007EAFA1 /* Controller */,
+				BE78C4AA21E5032C001C86B1 /* AlgorithmViewController.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -300,12 +317,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEC9CB6F21DFB589007EAFA1 /* LaunchScreen.storyboard in Resources */,
 				BEC9CB6C21DFB589007EAFA1 /* Assets.xcassets in Resources */,
-				BEC9CB9D21DFC31E007EAFA1 /* Controller in Resources */,
-				BEC9CBA021DFC3B5007EAFA1 /* Controller in Resources */,
-				BEC9CB9721DFC2CB007EAFA1 /* Controller in Resources */,
-				BEC9CB9A21DFC302007EAFA1 /* Controller in Resources */,
 				BEC9CB6A21DFB573007EAFA1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -331,9 +343,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE78C4AB21E5032C001C86B1 /* AlgorithmViewController.swift in Sources */,
 				BEC9CB6521DFB573007EAFA1 /* AppDelegate.swift in Sources */,
-				BEC9CBAC21DFC6CA007EAFA1 /* DrawingView.swift in Sources */,
-				BEC9CBAD21DFC6CA007EAFA1 /* ArtCell.swift in Sources */,
+				BE78C4B521E50348001C86B1 /* DataViewController.swift in Sources */,
+				BE78C4A621E4F23A001C86B1 /* DrawingView.swift in Sources */,
+				BE78C4AD21E50339001C86B1 /* AbstractionViewController.swift in Sources */,
+				BE78C4B121E50340001C86B1 /* CreativityViewController.swift in Sources */,
+				BE78C4A721E4F23A001C86B1 /* ArtCell.swift in Sources */,
+				BE78C4B421E50348001C86B1 /* BucketItemCell.swift in Sources */,
+				BE78C4A921E4FB97001C86B1 /* BigViewController.swift in Sources */,
+				BE78C4B021E50340001C86B1 /* ArtCollectionViewController.swift in Sources */,
+				BE78C4B821E5039E001C86B1 /* BucketItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -375,14 +395,6 @@
 				BEC9CB6921DFB573007EAFA1 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		BEC9CB6D21DFB589007EAFA1 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				BEC9CB6E21DFB589007EAFA1 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -509,7 +521,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ReallyBigProject/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/ReallyBigProject/Resoures/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -526,7 +538,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = ReallyBigProject/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/ReallyBigProject/Resoures/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
