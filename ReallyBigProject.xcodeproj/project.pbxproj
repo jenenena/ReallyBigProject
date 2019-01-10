@@ -22,6 +22,7 @@
 		BEC9CB6C21DFB589007EAFA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEC9CB6B21DFB589007EAFA1 /* Assets.xcassets */; };
 		BEC9CB7A21DFB58A007EAFA1 /* ReallyBigProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CB7921DFB58A007EAFA1 /* ReallyBigProjectTests.swift */; };
 		BEC9CB8521DFB58A007EAFA1 /* ReallyBigProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC9CB8421DFB58A007EAFA1 /* ReallyBigProjectUITests.swift */; };
+		BEF6E97121E7AD57006E2F9C /* ImpactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF6E97021E7AD57006E2F9C /* ImpactViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		BEC9CB8021DFB58A007EAFA1 /* ReallyBigProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReallyBigProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEC9CB8421DFB58A007EAFA1 /* ReallyBigProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReallyBigProjectUITests.swift; sourceTree = "<group>"; };
 		BEC9CB8621DFB58A007EAFA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEF6E97021E7AD57006E2F9C /* ImpactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImpactViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 			isa = PBXGroup;
 			children = (
 				BE78C4A821E4FB97001C86B1 /* BigViewController.swift */,
+				BEF6E97221E7AD5D006E2F9C /* Global */,
 				BEC9CB9E21DFC33A007EAFA1 /* Algorithm */,
 				BEC9CB9B21DFC308007EAFA1 /* Abstraction */,
 				BEC9CB9821DFC2E2007EAFA1 /* Creativity */,
@@ -211,6 +214,14 @@
 				BE78C4AA21E5032C001C86B1 /* AlgorithmViewController.swift */,
 			);
 			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		BEF6E97221E7AD5D006E2F9C /* Global */ = {
+			isa = PBXGroup;
+			children = (
+				BEF6E97021E7AD57006E2F9C /* ImpactViewController.swift */,
+			);
+			path = Global;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -353,6 +364,7 @@
 				BE78C4B421E50348001C86B1 /* BucketItemCell.swift in Sources */,
 				BE78C4A921E4FB97001C86B1 /* BigViewController.swift in Sources */,
 				BE78C4B021E50340001C86B1 /* ArtCollectionViewController.swift in Sources */,
+				BEF6E97121E7AD57006E2F9C /* ImpactViewController.swift in Sources */,
 				BE78C4B821E5039E001C86B1 /* BucketItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
